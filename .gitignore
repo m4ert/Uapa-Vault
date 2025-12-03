@@ -1,0 +1,19 @@
+# IDE/Development Environment Folders
+# These are configuration folders specific to your IDE (e.g., IntelliJ, Visual Studio) 
+# and should not be shared across different developer environments.
+.idea/
+.vs/
+
+# Build/Binary Artifact Folders
+# These folders contain compiled binary files and temporary object files (e.g., .exe, .dll) 
+# which are generated during the build process and can be recreated at any time.
+bin/
+obj/
+
+# User/Local Configuration Files
+# These files store local settings for a specific user (common in Visual Studio projects) 
+# and should not be tracked as they contain machine-specific paths or preferences.
+*.user
+
+
+*.zip
