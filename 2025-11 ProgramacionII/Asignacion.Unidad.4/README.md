@@ -19,7 +19,7 @@
 ## User Interface
 ![Program UI](Program-UI.png)
 
-## Tecnologies
+## Technologies
 - C#
 - Windows Forms (.NET 9)
 - Jetbrains Rider
