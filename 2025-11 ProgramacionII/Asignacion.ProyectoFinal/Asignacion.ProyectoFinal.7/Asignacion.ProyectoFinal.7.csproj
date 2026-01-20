@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>Asignacion.ProyectoFinal._7</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Asignacion.ProyectoFinal.2\Asignacion.ProyectoFinal.2.csproj" />
+    <ProjectReference Include="..\Asignacion.ProyectoFinal.3\Asignacion.ProyectoFinal.3.csproj" />
+    <ProjectReference Include="..\Asignacion.ProyectoFinal.4\Asignacion.ProyectoFinal.4.csproj" />
+    <ProjectReference Include="..\Asignacion.ProyectoFinal.5\Asignacion.ProyectoFinal.5.csproj" />
+    <ProjectReference Include="..\Asignacion.ProyectoFinal.6\Asignacion.ProyectoFinal.6.csproj" />
+  </ItemGroup>
+
+</Project>
